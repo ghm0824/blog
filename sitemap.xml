@@ -66,6 +66,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://github.com/ghm0824/blog/tags/mybatis/</loc>
+    <lastmod>2021-05-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -76,14 +83,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/ghm0824/blog/categories/%E6%A1%86%E6%9E%B6/</loc>
+    <loc>https://github.com/ghm0824/blog/categories/java/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</loc>
     <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://github.com/ghm0824/blog/categories/java/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</loc>
+    <loc>https://github.com/ghm0824/blog/categories/%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2021-05-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
