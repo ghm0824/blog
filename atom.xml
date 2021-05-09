@@ -3,11 +3,11 @@
   <title>GuoHM</title>
   
   
-  <link href="https://ghm0824.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://ghm0824.github.io/atom.xml" rel="self"/>
   
-  <link href="https://ghm0824.github.io/blog/"/>
+  <link href="https://ghm0824.github.io/"/>
   <updated>2018-02-25T14:59:45.000Z</updated>
-  <id>https://ghm0824.github.io/blog/</id>
+  <id>https://ghm0824.github.io/</id>
   
   <author>
     <name>guohm</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>平面设计入门导图</title>
-    <link href="https://ghm0824.github.io/blog/wiki/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E5%AF%BC%E5%9B%BE/"/>
-    <id>https://ghm0824.github.io/blog/wiki/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E5%AF%BC%E5%9B%BE/</id>
+    <link href="https://ghm0824.github.io/wiki/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E5%AF%BC%E5%9B%BE/"/>
+    <id>https://ghm0824.github.io/wiki/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E5%AF%BC%E5%9B%BE/</id>
     <published>2017-03-12T11:34:55.000Z</published>
     <updated>2018-02-25T14:59:45.000Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="艺术" scheme="https://ghm0824.github.io/blog/categories/%E8%89%BA%E6%9C%AF/"/>
+    <category term="艺术" scheme="https://ghm0824.github.io/categories/%E8%89%BA%E6%9C%AF/"/>
     
-    <category term="平面设计" scheme="https://ghm0824.github.io/blog/categories/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    <category term="平面设计" scheme="https://ghm0824.github.io/categories/%E8%89%BA%E6%9C%AF/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
     
-    <category term="平面设计" scheme="https://ghm0824.github.io/blog/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    <category term="平面设计" scheme="https://ghm0824.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>Welcome Zthxxx&#39;s Wiki Site</title>
-    <link href="https://ghm0824.github.io/blog/wiki/index/"/>
-    <id>https://ghm0824.github.io/blog/wiki/index/</id>
+    <link href="https://ghm0824.github.io/wiki/index/"/>
+    <id>https://ghm0824.github.io/wiki/index/</id>
     <published>2017-01-21T17:55:57.000Z</published>
     <updated>2018-02-25T14:59:45.000Z</updated>
     
