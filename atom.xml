@@ -6,7 +6,7 @@
   <link href="https://github.com/ghm0824/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/ghm0824/blog/"/>
-  <updated>2021-05-09T06:37:34.741Z</updated>
+  <updated>2021-05-09T06:51:06.064Z</updated>
   <id>https://github.com/ghm0824/blog/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyBatis</title>
+    <link href="https://github.com/ghm0824/blog/wiki/%E6%A1%86%E6%9E%B6/MyBatis/MyBatis/"/>
+    <id>https://github.com/ghm0824/blog/wiki/%E6%A1%86%E6%9E%B6/MyBatis/MyBatis/</id>
+    <published>2021-05-09T06:51:06.000Z</published>
+    <updated>2021-05-09T06:51:06.064Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
+      
+    
+    
+    
+    <category term="框架" scheme="https://github.com/ghm0824/blog/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="MyBatis" scheme="https://github.com/ghm0824/blog/categories/%E6%A1%86%E6%9E%B6/MyBatis/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Welcome guohm&#39;s blog</title>
